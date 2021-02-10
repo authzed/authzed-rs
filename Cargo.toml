@@ -1,0 +1,14 @@
+[package]
+name = "authzed"
+description = "client for authzed.com"
+version = "0.0.1"
+edition = "2018"
+authors = [ "Jimmy Zelinskie <jimmy.zelinskie+git@gmail.com>" ]
+license = "Apache-2.0"
+readme = "README.md"
+keywords = [ "authorization" ]
+categories = [ "api-bindings", "database", "web-programming" ]
+homepage = "https://authzed.com"
+repository = "https://github.com/authzed/authzed-rs"
+
+[dependencies]
